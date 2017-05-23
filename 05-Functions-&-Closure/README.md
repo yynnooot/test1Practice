@@ -1,7 +1,7 @@
-#05-Functions-&-Closure
+# 05-Functions-&-Closure
 <hr>
 
-###Overview
+### Overview
 
 As some of the previous TestSpecs demonstrated, Functions are just Objects.  The following TestSpecs will cover this idea even further while demonstrating other features of functions.  The concepts we will explore are:
 
@@ -12,11 +12,11 @@ As some of the previous TestSpecs demonstrated, Functions are just Objects.  The
 
 <hr>
 
-###Section Overview
+### Section Overview
 
 - [05 Functions & Closure]()
 
-###Curriculum Videos
+### Curriculum Videos
 
 - [Dive into Functions](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/57accf4ff3d6370300b481b4/text)
 - [Function Arguments Keyword](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/57accf57f3d6370300b481b6/text)
@@ -25,7 +25,7 @@ As some of the previous TestSpecs demonstrated, Functions are just Objects.  The
 - [Nested Functions & Closure](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/5841e1cb4b5f3d000456e088/text)
 - [Introduction Closure](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/5841e1823506550004fb1dcc/text)
 
-###Additional Resources:
+### Additional Resources:
 
 - [EJ: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 - [Codeschool: JS Roadtrip PT 2 - Problem Solving With Functions ](http://javascript-roadtrip-part2.codeschool.com/levels/4/challenges/6)
