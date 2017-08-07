@@ -22,7 +22,7 @@ http://www.creativebloq.com/javascript/javascript-debugging-beginners-3122820
 [Permalink](https://www.evernote.com/shard/s3/sh/3923d313-0199-4272-b589-8a8d397a94c5/b726f74c27265fc96bb8b185e13f9208)
 
 
-###Before beginning your assignment, make sure you have completed these steps: 
+### Before beginning your assignment, make sure you have completed these steps: 
 
 1. Forked & cloned the TestFirst repository.
 2. Installed Node and Testem.
