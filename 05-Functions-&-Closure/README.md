@@ -1,4 +1,4 @@
-###Overview
+### Overview
 
 As some of the previous TestSpecs demonstrated, Functions are just Objects.  The following TestSpecs will cover this idea even further while demonstrating other features of functions.  The concepts we will explore are:
 
@@ -7,7 +7,7 @@ As some of the previous TestSpecs demonstrated, Functions are just Objects.  The
 - [Scope](http://javascriptplayground.com/blog/2012/04/javascript-variable-scope-this/) 
 - [Closure](http://javascript-roadtrip-part3.codeschool.com/levels/2)
 
-###Curriculum Videos
+### Curriculum Videos
 <hr>
 
 **Functions**
@@ -38,7 +38,7 @@ As some of the previous TestSpecs demonstrated, Functions are just Objects.  The
 - [Introduction Closure](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/5841e1823506550004fb1dcc/text)
 - [Explicit Binding Rule](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/57a379f88547c503007206d4/text)
 
-###Additional Resources:
+### Additional Resources:
 
 
 - [EJ: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
