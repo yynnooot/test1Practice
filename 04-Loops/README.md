@@ -1,7 +1,7 @@
-#04-Loops
+# 04-Loops
 <hr>
 
-###Overview
+### Overview
 
 Looping is a powerful part of any programming language and allows you to repeat a task until a conditional expression evaluates to false.  Normally a loop has:
 
@@ -16,16 +16,16 @@ The goal of this TestSpec is to become familiar and comfortable with looping, us
 
 <hr>
 
-###Section Overview
+### Section Overview
 
-- [04-Loops]()
+- [04-Loops](https://youtu.be/Gh8fiR-OMcs)
 
-###Curriculum Videos
+### Curriculum Videos
 
  - [For Loops](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/57accf0ab95bba03002d5f80/text)
  - [Traversing Objects](https://learn.fullstackacademy.com/workshop/57a21d1d39616e0300f91dd6/content/57accf04b95bba03002d5f7e/text)
 
-###Additional Resources
+### Additional Resources
 
 - Eloquent JavaScript [Control Flow](http://eloquentjavascript.net/02_program_structure.html#p_t55fBgZ9ww)
 - Codeschool [The Labyrinth of Loops](http://javascript-roadtrip-part2.codeschool.com/levels/1)
