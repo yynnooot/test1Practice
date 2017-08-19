@@ -4,7 +4,7 @@ describe('the function `hello`', function() {
   });
 
   it('says hello to someone', function() {
-    expect(hello('Fred')).toEqual(FILL_ME_IN);
+    expect(hello('Fred')).toEqual("Hello Fred!");
   });
 });
 
@@ -14,6 +14,7 @@ describe('the function `add`', function(){
 
   beforeEach(function(){
     // re-assign returnValue to 0 before each spec
+    returnValue = 0;
   });
 
   it('adds 4 and 5, the value returned is 9', function(){
