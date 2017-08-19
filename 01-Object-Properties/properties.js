@@ -23,7 +23,7 @@ function setPropsOnFunc(funcObj){
     funcObj.divideByTwo = function(num){
         return num/2;
     }
-    funcObj.prototype.helloWorld = function(){
+    funcObj.prototype. helloWorld = function(){
         return 'Hello World';
     }
 }
