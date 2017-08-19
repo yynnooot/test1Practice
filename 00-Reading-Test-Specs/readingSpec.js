@@ -1,6 +1,6 @@
 describe('the function `hello`', function() {
   it('says hello', function() {
-    expect(hello()).toEqual(FILL_ME_IN);
+    expect(hello()).toEqual("Hello!";
   });
 
   it('says hello to someone', function() {
